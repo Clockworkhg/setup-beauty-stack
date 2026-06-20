@@ -73,7 +73,7 @@ Step 0b: 检测报告解读
 
 ## 工作流
 
-> 📍 以下命令从项目根目录执行。`tools/setup_beauty_stack.py` 为 PKB 项目自带工具。若 skill 被复制到其他项目，需同步复制 `tools/setup_beauty_stack.py`。
+> 📍 以下命令从本仓库根目录执行，`tools/setup_beauty_stack.py` 随仓库一起发布。
 
 ### Step 1: Pre-Flight 检测
 
